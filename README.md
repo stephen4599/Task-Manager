@@ -41,7 +41,7 @@ This is a Simple Task Management Web Application built for the Full Stack Intern
     npm start
     ```
   write a command to run backend
-     ```bash
+     ```
      node server.js
         ```
 
