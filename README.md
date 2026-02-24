@@ -40,7 +40,10 @@ This is a Simple Task Management Web Application built for the Full Stack Intern
     ```bash
     npm start
     ```
-    Alternatively, you can run `node server.js`.
+  write a command to run backend
+     ```bash
+     node server.js
+        ```
 
 4.  **Access the Application:**
     Open your web browser and navigate to `http://localhost:3000`.
