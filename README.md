@@ -23,7 +23,7 @@ This is a Simple Task Management Web Application built for the Full Stack Intern
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    [git clone <https://github.com/stephen4599/Task-Manager>
     cd Task
     ```
 
